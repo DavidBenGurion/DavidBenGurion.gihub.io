@@ -1,0 +1,21 @@
+.box-content{
+    margin-top: 2%;
+}
+.box-content h2{
+    color: white;
+    
+}
+.table-df-trans{
+    border: 1px solid white;
+    margin-left: 5%;
+    width: 90%;
+}
+.table-df-trans > thead > tr >th{
+    border-top: 1px solid white;
+    color:white;
+    border-right: 1px solid white;
+}
+.table-df-trans > tbody > tr >td{
+    color:white;
+    border-right: 1px solid white;
+}

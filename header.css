@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #b88006;    
+}
+.nav-link{
+    color:red;
+}
+.box-content{
+    background-color: black;
+}
+.produk-nama{
+    font-weight: 700;
+    text-decoration: none;
+    font-family: rounded;
+    color:white;
+}
+.card{
+    padding: 5px;
+    border: 4px solid #AB6D23;
+}
+@font-face{
+    font-family: rounded;
+    src: url(Admin/page/Rounded.ttf);
+}
+@font-face{
+    font-family: angel;
+    src: url(font/Angel.ttf);
+}
+.harga{
+    font-family: rounded;
+    font-weight: 800;
+    color:red;
+}
+.btn-chart{
+    background-color: #CF7500;
+}
+.box-aboutUs{
+    background-image: linear-gradient(90deg,#EFFFFD,#99FFCD);
+    padding: 10px;
+    border: 5px solid #cdf7e9;
+    height: 500px;
+    border-radius: 5px;
+}
+.box-data h5{
+    font-family: rounded;
+    font-weight: 800;
+}
+.box-data table{
+    margin-top: 40px;
+}
+.card-item{
+    background-color: black;
+}

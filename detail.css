@@ -1,0 +1,18 @@
+.container{
+    margin-top: 5%;
+}
+body{
+    background-color: black;
+}
+.image-block{
+    background-color: black;
+}
+.card-body{
+    background-color: black;
+}
+.card-body h2{
+    color:#FCF8F3;
+}
+.card-body p{
+    color:#FCF8F3;
+}

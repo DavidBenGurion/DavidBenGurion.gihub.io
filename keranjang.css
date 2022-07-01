@@ -1,0 +1,35 @@
+.title-cek{
+    color:white;
+    font-family:Baron;
+    color:#FCF8F3;
+}
+@font-face {
+    font-family:hdp;
+    src: url(font/hotel_de_paris.ttf);
+}
+@font-face {
+    font-family:Baron;
+    src: url(font/Baron.otf);
+}
+.table-keranjang > thead,tfoot > tr > th,td{
+    color:white;
+    border:none;
+}
+.table-keranjang > thead > tr  > th{
+    border-bottom:none;
+    background-color: #b88006;
+    font-family: arial;
+    border-right: 3px solid black;
+}
+.table-keranjang > tbody > .row-gl > td{
+    background-color: #404969;
+    border-right: 3px solid black;
+}
+.table-keranjang > tbody > .row-gn > td{
+    background-color: #475053;
+    border-right: 3px solid black
+}
+.table-keranjang > tfoot > tr > th{
+    background-color: #7B3C3C;
+    border:3px solid black;
+}
